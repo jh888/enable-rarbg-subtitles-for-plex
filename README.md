@@ -10,7 +10,6 @@ Be sure to update the configuration section with your library locations as seen 
 The script will also create a rollback script to undo any changes that it made - just in case things don't go as expected.
 
 Example of operation:
-
 /Movies/MovieName (2006)/Subs/2_English.srt
 
 would be copied to the parent directory and match the movie file's filename with an 'en' tag for english.
